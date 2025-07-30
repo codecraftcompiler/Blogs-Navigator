@@ -1,0 +1,1 @@
+Blogs Navigator is a clean and intuitive web application designed to help users discover, browse, and manage blog posts efficiently. Whether you're a casual reader or a blogging enthusiast, this app offers a seamless reading experience with categorized navigation, quick search, and bookmarking features.
